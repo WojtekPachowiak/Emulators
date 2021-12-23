@@ -1,2 +1,2 @@
-# Emulators
+# Emulators 🔲
 Retro consoles/chips emulators
